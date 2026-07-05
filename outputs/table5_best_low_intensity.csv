@@ -1,0 +1,15 @@
+﻿排序组,舆情场景,方法,参数名,参数值,干预概率,极化率降低量,干预接受率,干预后最终极化率
+HotRank,激烈骂战(U型),suppression,Gamma,1.0,0.3,58.4%,53.3%,26.2%
+HotRank,饭圈控评(J型),suppression,Gamma,0.5,0.3,53.0%,46.1%,39.0%
+HotRank,全网黑(反J型),suppression,Gamma,1.0,0.3,62.6%,54.9%,26.0%
+HotRank,普遍好评,suppression,Gamma,1.0,0.3,54.2%,53.1%,18.8%
+HotRank,普遍差评,suppression,Gamma,1.0,0.3,61.8%,57.4%,11.4%
+HotRank,理性讨论(钟型),suppression,Gamma,1.0,0.3,57.2%,56.9%,12.8%
+HotRank,无序状态,suppression,Gamma,1.0,0.3,59.0%,54.0%,20.2%
+TimeRank,激烈骂战(U型),suppression,Gamma,1.0,0.3,54.6%,54.6%,23.2%
+TimeRank,饭圈控评(J型),suppression,Gamma,1.0,0.3,43.8%,45.2%,41.8%
+TimeRank,全网黑(反J型),suppression,Gamma,0.5,0.3,60.0%,55.7%,24.4%
+TimeRank,普遍好评,suppression,Gamma,1.0,0.3,52.4%,53.6%,20.6%
+TimeRank,普遍差评,suppression,Gamma,1.0,0.3,61.0%,59.0%,8.8%
+TimeRank,理性讨论(钟型),suppression,Gamma,2.0,0.3,56.0%,57.5%,13.8%
+TimeRank,无序状态,suppression,Gamma,1.0,0.3,53.6%,54.7%,20.4%
